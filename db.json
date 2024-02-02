@@ -1,0 +1,1173 @@
+{
+  "home": [
+    {
+      "id": "1",
+      "img": "./../src/components/img/Himg1.png",
+      "headtext": "New Year, New Yays",
+      "text": "Jump-start your year with a week full of offers in the Starbucks app.*",
+      "bgcolor": "#bbf2d1",
+      "bttext": "Open the app",
+      "txtcolor": "black"
+    },
+    {
+      "id": "2",
+      "img": "./../src/components/img/Himg2.png",
+      "headtext": "Pistachi-Yum",
+      "text": "Creamy, cozy vibes make the Pistachio Latte a must-have this season.",
+      "bgcolor": "#337481",
+      "bttext": "Join for free",
+      "txtcolor": "white"
+    },
+    {
+      "id": "3",
+      "img": "./../src/components/img/Himg3.png",
+      "headtext": "Hey there, hazelnut",
+      "text": "Say hello to our Hazelnut Oatmilk Shaken Espresso, a rich and layered pick-me-up.",
+      "bgcolor": "#efabfc",
+      "bttext": "Order now",
+      "txtcolor": "black"
+    },
+    {
+      "id": "4",
+      "img": "./../src/components/img/Himg4.png",
+      "headtext": "Savory and satisfying",
+      "text": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
+      "bgcolor": "#a5c4dc",
+      "bttext": "Order now",
+      "txtcolor": "black"
+    },
+    {
+      "id": "5",
+      "img": "./../src/components/img/Himg5.png",
+      "headtext": "Send Starbucks Cards in Venmo",
+      "text": "Send a little treat to someone you care about and brighten their day. You can now send Starbucks eGifts directly through Venmo.**",
+      "bgcolor": "#d4e9e2",
+      "bttext": "View in Venmo",
+      "txtcolor": "black"
+    }
+  ],
+  "menu": {
+    "drinks": [
+      {
+        "id": 1,
+        "name": "Oleato™",
+        "img": "./../src/components/img/drink1.jpg",
+        "more": [
+          {
+            "name": "Oleato Golden Foam™ Cold Brew",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_GoldenFoam_ColdBrew.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Oleato™ Caffé Latte with Oatmilk",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_CaffeLatte.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+            
+          },
+          {
+            "name": "Oleato™ Iced Shaken Espresso with Oatmilk and Toffeenut",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Oleato_ToffeeNut_ShakenEspresso.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Iced Chai Tea Latte with Oleato Golden Foam™",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230406_1723_IcedChaiTeaLatte-GoldenFoam-onGray_sRGB-1800.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Iced Matcha Tea Latte with Oleato Golden Foam™",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211029_7356_IcedMatchaTeaLatte-GoldenFoam-onGray_sRGB-1800.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Paradise Drink Starbucks Refreshers® Beverage with Oleato Golden Foam™",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221014_4603_ParadiseDrink-GoldenFoam-onGray_sRGB-1800.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Dragon Drink® Starbucks Refreshers® Beverage with Oleato Golden Foam™",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20221014_4538_DragonDrink-GoldenColdFoam-onGray_sRGB-1800.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hot Coffees",
+        "img": "./../src/components/img/drink2.jpg",
+        "more": [
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Caffè Americano",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/Veranda_Blend_Hot.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Hot Teas",
+        "img": "./../src/components/img/drink3.jpg",
+        "more": [
+          {
+            "name": "Gingerbread Oatmilk Chai",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20230612_6244_GingerbreadOatmilkChai-onGreen-MOP_1800.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Chai Tea Latte",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20220411_ChaiLatte.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Chai Tea",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/ChaiBrewedTea.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Earl Grey Tea",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/ChaiBrewedTea.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Matcha Tea Latte",
+            "img": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211115_MatchaTeaLatte.jpg?impolicy=1by1_tight_288",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Hot Drinks",
+        "img": "./../src/components/img/drink4.jpg",
+        "more": [
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Frappuccino® Blended Beverages",
+        "img": "./../src/components/img/drink5.jpg",
+        "more": [
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Cold Coffees",
+        "img": "./../src/components/img/drink6.jpg",
+        "more": [
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Iced Teas",
+        "img": "./../src/components/img/drink7.jpg",
+        "more": [
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Cold Drinks",
+        "img": "./../src/components/img/drink8.jpg",
+        "more": [
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "Espresso",
+            "img": "./../src/components/img/drink1.jpg",
+            "calories": 210,
+            "increasp":20,
+            "section": [
+              {
+                "type": "normal",
+                "name": "milk",
+                "options": [
+                  "Oatmilk",
+                  "Heavy Cream",
+                  "Heavy Cream",
+                  "Nonfat Milk",
+                  "2% Milk",
+                  "Whole Milk"
+                ]
+              },
+              {
+                "type": "count",
+                "name": "milk",
+                "value": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "food": [
+      {
+        "id": 1,
+        "name": "Hot Brealfast",
+        "img": "./../src/components/img/food1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Oatmeal & Yogurt",
+        "img": "./../src/components/img/food2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Bakery",
+        "img": "./../src/components/img/food3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Snacks & Sweets",
+        "img": "./../src/components/img/food4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hot Brealfast",
+        "img": "./../src/components/img/food5.jpg"
+      }
+    ],
+    "athomecoffee": [
+      {
+        "id": 1,
+        "name": "Whole Bean",
+        "img": "./../src/components/img/athome1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Ground",
+        "img": "./../src/components/img/athome2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "VIA® Instant",
+        "img": "./../src/components/img/athome3.jpg"
+      }
+    ],
+    "merchandise": [
+      {
+        "id": 1,
+        "name": "Cold Cups",
+        "img": "./../src/components/img/merch1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tumblers",
+        "img": "./../src/components/img/merch2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mugs",
+        "img": "./../src/components/img/merch3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Other",
+        "img": "./../src/components/img/merch4.jpg"
+      }
+    ]
+  },
+  "gift": {
+    "featured": [
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy24/ValentineHeartsFY24.jpg"
+      },
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy23/WarmMyHeartFY23.jpg"
+      },
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy24/LNYDragonFY24.png"
+      },
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy24/ConfettiCelebrationFY24.jpg"
+      },
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy24/MyTreatFY24.jpg"
+      },
+      {
+        "img": "https://globalassets.starbucks.com/digitalassets/cards/fy20/LoveYouGirlFY20.jpg"
+      }
+    ]
+  }
+}
