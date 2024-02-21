@@ -74,14 +74,12 @@
               },
               {
                 "type": "normal",
-                "name": "Salam",
+                "name": "Toppings",
                 "options": [
-                  "Oatmilk",
-                  "Heavy Cream",
-                  "Heavy Cream",
-                  "Nonfat Milk",
-                  "2% Milk",
-                  "Whole Milk"
+                  "Extra Oleato Golden Foam™",
+                  "Light Oleato Golden Foam™",
+                  "No Oleato Golden Foam™",
+                  "Oleato Golden Foam™"
                 ]
               },
               {
